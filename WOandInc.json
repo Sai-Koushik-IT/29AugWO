@@ -31,7 +31,7 @@
 						"header": [
 							{
 								"key": "CSCS-Authorization-Token",
-								"value": "{{sst-auth-token}}",
+								"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJzc3QtdGVzdHVzZXJAY3Njcy5pbyIsImZpcnN0bmFtZSI6InNzdCIsIm9yZ05hbWUiOiJTU1QiLCJyb2xlcyI6IlNTVF9BRE1JTiIsInVzZXJJZCI6MTIsIm9yZ0lkIjoiMTQiLCJsYXN0bmFtZSI6InRlc3R1c2VyIiwiZ2xvYmFsT3JnQ29kZSI6Im51bGwiLCJvcmdDb2RlIjoiU1NUIiwicGVybWlzc2lvbnMiOiIiLCJ1c2VyVHlwZSI6MCwiZXhwIjoxNjkzNDYxMDQ0MzkwLCJlbWFpbCI6InNzdC10ZXN0dXNlckBjc2NzLmlvIiwidXNlcm5hbWUiOiJzc3QtdGVzdHVzZXJAY3Njcy5pbyIsInZlbmRvckNvZGVzIjoiIn0.dhqUAhcg0ZlGhWHhpAWegDr3NwymioJYyCSXSoOAnfx3iqKYt1tQrDMPQ_229SELEcPKE6fiAK-NRRgo2FgGhg",
 								"type": "default"
 							},
 							{
